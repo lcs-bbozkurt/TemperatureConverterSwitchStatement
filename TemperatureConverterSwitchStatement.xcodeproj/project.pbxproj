@@ -35,6 +35,7 @@
 		C12CA125275A7878000B85DD = {
 			isa = PBXGroup;
 			children = (
+				C12CA131275A7878000B85DD /* TemperatureConverterSwitchStatementApp.swift */,
 				C12CA130275A7878000B85DD /* TemperatureConverterSwitchStatement */,
 				C12CA12F275A7878000B85DD /* Products */,
 			);
@@ -51,7 +52,6 @@
 		C12CA130275A7878000B85DD /* TemperatureConverterSwitchStatement */ = {
 			isa = PBXGroup;
 			children = (
-				C12CA131275A7878000B85DD /* TemperatureConverterSwitchStatementApp.swift */,
 				C12CA133275A7878000B85DD /* ContentView.swift */,
 				C12CA135275A787B000B85DD /* Assets.xcassets */,
 				C12CA137275A787B000B85DD /* Preview Content */,
